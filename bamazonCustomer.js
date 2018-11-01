@@ -60,7 +60,7 @@ var purchaseItem = function () {
                         }
                     }
                 }
-            // function to calculate cost of items to be purchased and the updated stock quantity
+                // function to calculate cost of items to be purchased and the updated stock quantity
             ]).then(function (answer) {
                 var choiceId = answer.itemId - 1;
                 var productChoice = result[choiceId];
@@ -89,7 +89,7 @@ purchaseItem();
 
 
 
-    
+
 
 
 
