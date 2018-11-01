@@ -14,7 +14,7 @@ Finally, the application will return the total cost for the number of selected i
 ![inquirer-screenshot-2] (images/bamazon_3.PNG)
 
 Example of Bamazon being run in the terminal:
-![bamazon-video] (iamges/bamazon_video)
+![bamazon-video] (images/bamazon_video)
 
 
 
