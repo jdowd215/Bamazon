@@ -13,8 +13,7 @@ Finally, the application will return the total cost for the number of selected i
 ![inquirer-screenshot-1](images/bamazon_2.PNG)
 ![inquirer-screenshot-2](images/bamazon_3.PNG)
 
-Example of Bamazon being run in the terminal:
-![bamazon-example](https://drive.google.com/file/d/1dGm2HFj5tQZmgbDgRWcuDZAwGbJulat6/view?usp=sharing)
+[Link to video example of Bamazon being run in the terminal](https://drive.google.com/file/d/1dGm2HFj5tQZmgbDgRWcuDZAwGbJulat6/view?usp=sharing)
 
 
 
